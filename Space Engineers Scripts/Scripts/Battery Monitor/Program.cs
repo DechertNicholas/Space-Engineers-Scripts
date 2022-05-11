@@ -27,7 +27,7 @@ namespace BatteryMonitor
             CockpitScreen = (GridTerminalSystem.GetBlockWithName(CockpitName)
                 as IMyTextSurfaceProvider).GetSurface(1);
             CockpitScreen.Font = "Monospace";
-            CockpitScreen.FontSize = 1.69f; // Sex number
+            CockpitScreen.FontSize = 1.69f;
             CockpitScreen.BackgroundColor = new VRageMath.Color(0, 88, 151);
 
             BatteryGroup = GridTerminalSystem.GetBlockGroupWithName(BatteryGroupName);
