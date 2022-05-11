@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Engineers Scripts", "Space Engineers Scripts\Space Engineers Scripts.csproj", "{A99C4C6C-1F25-4018-8554-844FE60A848B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A99C4C6C-1F25-4018-8554-844FE60A848B}.Debug|x64.ActiveCfg = Debug|x64
+		{A99C4C6C-1F25-4018-8554-844FE60A848B}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E3EE60B-40CD-40D6-9413-63965DFAD593}
+	EndGlobalSection
+EndGlobal
