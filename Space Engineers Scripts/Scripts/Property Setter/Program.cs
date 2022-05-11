@@ -1,7 +1,7 @@
 ﻿using Sandbox.ModAPI.Ingame;
 using System;
 
-namespace IngameScript
+namespace PropertySetter
 {
     partial class Program : MyGridProgram
     {

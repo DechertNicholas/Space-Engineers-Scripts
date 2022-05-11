@@ -1,7 +1,7 @@
 ﻿using Sandbox.ModAPI.Ingame;
 using System.Collections.Generic;
 
-namespace IngameScript
+namespace TurnOffBlockGroupWhenStationary
 {
     partial class Program : MyGridProgram
     {
